@@ -1,4 +1,4 @@
-/* ag.c: Aerages 2 integers */
+/* ag.c: Averages 2 integers */
 #include <stdio.h>
 
 int main() {
